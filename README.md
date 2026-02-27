@@ -11,12 +11,8 @@ JavaScript | TypeScript | Node.js | React | Next.js
 ## 💻 Featured Projects
 
 * **[CoffeeJoy](https://milenness.github.io/coffee-joy/)** — a website for a specialty coffee company with adaptive design, dark/light theme toggle, and smooth navigation.
-  * **Role:** Team Lead. Developed the header, modal overlay, and managed overall project composition.
-  * **[GitHub-repository](https://github.com/milenness/coffee-joy)**
 
 * **[FoodSta](https://milenness.github.io/food-delivery/)** — a food delivery service website featuring responsive design, smooth slider integration, and interactive order forms.
-  * **Role:** Developer (Individual project).
-  * **[GitHub-repository](https://github.com/milenness/food-delivery)**
 
 ## 🗣️ Languages
 

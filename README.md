@@ -1,17 +1,21 @@
 # 👋 Hi, I'm Milena Karpenko
 
-## Junior Fullstack Developer | React | Node.js
+## Junior Frontend Developer | React | Next.js | TypeScript
 
-Full-stack developer in training with a focus on building clean, functional, and user-friendly web applications. I am currently expanding my expertise in React and Node.js while also studying Data Analytics to create more efficient and data-driven digital solutions. I am passionate about minimalist design and atmospheric digital art, and I strive to implement these aesthetics into my work. Fast learner, detail-oriented, and open to internship or collaboration opportunities.
+I am a Junior Frontend Developer with a strong focus on building responsive, high-quality, and user-centric web applications. Currently pursuing a Master's degree in Information Systems and Technologies, I combine my technical skills with a solid analytical and managerial background. 
+
+Having practical experience as a Team Lead and Scrum Master, I highly value clean code, efficient team workflows, and pixel-perfect design. I also have an active interest in Data Analytics, which helps me understand product metrics and bridge the gap between business goals and technical execution. Fast learner, detail-oriented, and open to new opportunities!
 
 ## 🧰 Tech Stack
 
-JavaScript | TypeScript | Node.js | React | Next.js
+**Frontend:** JavaScript | TypeScript | React | Next.js | Zustand | React Query | HTML5/CSS3 (CSS Modules)
+**Backend & Tools:** Node.js | Git | Vite 
 
 ## 💻 Featured Projects
 
-* **[CoffeeJoy](https://milenness.github.io/coffee-joy/)** — a specialty coffee web application built with a focus on adaptive design and user experience. Implemented features include a dark/light theme toggle, smooth navigation through sections, and interactive modal overlays for orders. Developed as a team project with an emphasis on clean composition and responsive interface components.
-* **[FoodSta](https://milenness.github.io/food-delivery/)** — a food delivery service landing page featuring a fully responsive layout and interactive elements. Key functionalities include a smooth slider integration for menu browsing and validated order forms. Built using HTML5, CSS3, and JavaScript, following the BEM methodology for scalable and maintainable code.
+* **[Natural Travels](https://natural-travels-frontend.vercel.app/)** — an eco-travel platform featuring secure user authentication, dynamic routing, robust form validation, and full dark theme implementation. Built with Next.js, TypeScript, and React. Acted as Scrum Master and developed core UI components.
+* **[Pawsome Stay](https://milenness.github.io/pawsome-stay/)** — a web application designed for an animal shelter service. Features a fully responsive adaptive design, a dark/light theme toggle, a dynamic pet catalog, and interactive sliders. Served as Team Lead, overseeing overall project architecture and developing the header and modal overlays.
+* **[CoffeeJoy](https://milenness.github.io/coffee-joy/)** — a modern website for a specialty coffee company showcasing adaptive design, a seamless dark/light theme toggle, and smooth, intuitive navigation through distinct sections. Served as Team Lead and core developer.
 
 ## 🗣️ Languages
 

@@ -8,8 +8,8 @@ Having practical experience as a Team Lead and Scrum Master, I highly value clea
 
 ## 🧰 Tech Stack
 
-**Frontend:** JavaScript | TypeScript | React | Next.js | Zustand | React Query | HTML5/CSS3 (CSS Modules)
-**Backend & Tools:** Node.js | Git | Vite 
+* **Frontend:** JavaScript | TypeScript | React | Next.js | Zustand | React Query | HTML5/CSS3 (CSS Modules)
+* **Backend & Tools:** Node.js | Git | Vite 
 
 ## 💻 Featured Projects
 
